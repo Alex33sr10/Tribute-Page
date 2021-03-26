@@ -1,4 +1,108 @@
 # Tribute-Page
 Bear Bryant Tribute Page
-[Tribute Page html.txt](https://github.com/Alex33sr10/Tribute-Page/files/6214048/Tribute.Page.html.txt)
-[Tribute Page CSS.txt](https://github.com/Alex33sr10/Tribute-Page/files/6214049/Tribute.Page.CSS.txt)
+
+<!DOCTYPE.html>
+<html>
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<main id="main">
+  <div style="text-decoration:underline">
+ <h1 id="title">The "Bear" Bryant
+   </div>
+   <br>
+    <div id="img-div">
+   <img id="image" img src="https://s8r5hym581-flywheel.netdna-ssl.com/wp-content/uploads/2015/01/Bear-Bryant-quote-7.jpg" alt="bryant-quote" class="center" class="responsive";> 
+      <div id="img-caption" class="center">Bryant-quote</div>
+    </div>
+   <br>
+   <div id="tribute-info">
+     <p>Bryant accepted a scholarship to play for the University of Alabama in 1931. Since he elected to leave high school before completing his diploma, Bryant had to enroll in a Tuscaloosa high school to finish his education during the fall semester while he practiced with the college team. Bryant played end for the Crimson Tide and was a participant on the school's 1934 national championship team. Bryant was the self-described "other end" during his playing years with the team, playing opposite the big star, Don Hutson, who later became a star in the National Football League and a Pro Football Hall of Famer. Bryant himself was second team All-Southeastern Conference in 1934, and was third team all conference in both 1933 and 1935. Bryant played with a partially broken leg in a 1935 game against Tennessee. Bryant pledged the Sigma Nu social fraternity, and as a senior, he married Mary Harmon, which he kept a secret since Alabama did not allow active players to be married. Bryant was selected in the fourth round by the Brooklyn Dodgers in the 1936 NFL Draft, but never played professional football.
+     </p>
+     <p id="quote">When asked why he returned to his alma mater, Alabama, Bryant replied, "Mama called. And when Mama calls, you just have to come runnin'."</p>
+   <p> Bryant's first spring practice back at Alabama was much like what happened at Junction. Some of Bryant's assistants thought it was even more difficult, as dozens of players quit the team. After winning a combined four games in the three years before Bryant's arrival (including Alabama's only winless season on the field in modern times), the Tide went 5–4–1 in Bryant's first season.[15] The next year, in 1959, Alabama beat Auburn and appeared in the inaugural Liberty Bowl, the first time the Crimson Tide had beaten Auburn or appeared in a bowl game in six years. In 1961, with quarterback Pat Trammell and football greats Lee Roy Jordan and Billy Neighbors, Alabama went 11–0 and defeated Arkansas 10–3 in the Sugar Bowl to claim the national championship. </p>
+     <p>
+The next three years (1962–1964) featured Joe Namath at quarterback and were among Bryant's finest. The 1962 season ended with a 17–0 victory in the Orange Bowl over Bud Wilkinson's Oklahoma Sooners. The 1963 season ended with a 12–7 victory over Ole Miss in the Sugar Bowl, which was the first game between the two Southeastern Conference neighbors in almost 20 years, and only the second in 30 years. In 1964, the Tide won another national championship, but lost 21–17 to Texas in the Orange Bowl, in the first nationally televised college game in color. The Tide ended up sharing the 1964 national title with Arkansas, as the Razorbacks won the Cotton Bowl Classic, and had beaten Texas in Austin. Before 1968, the AP and UPI polls gave out their championships before the bowl games. The AP ceased this practice before the 1968 season, but the UPI continued until 1973. The 1965 Crimson Tide repeated as champions after defeating Nebraska, 39–28, in the Orange Bowl. Coming off back-to-back national championship seasons, Bryant's 1966 Alabama team went undefeated in, beating a strong Nebraska team, 34–7, in the Sugar Bowl. However, Alabama finished third in the nation behind national co-champions Michigan State and Notre Dame, who had previously played to a 10–10 tie in a late regular season game. In a biography of Bryant written by Allen Barra, the author suggests that the major polling services refused to elect Alabama as national champion for a third straight year because of Alabama Governor George Wallace's recent stand against integration. </p>
+<p>
+The 1967 Alabama team was billed as another national championship contender with star quarterback Kenny Stabler returning, but they stumbled out of the gate and tied Florida State, 37–37, at Legion Field. Alabama finished the year at 8–2–1, losing 20–16 in the Cotton Bowl Classic to Texas A&M, coached by former Bryant player and assistant coach Gene Stallings. In 1968, Bryant again could not match his previous successes, as the team went 8–3, losing to the Missouri, 35–10, in the Gator Bowl.</p>
+ <p>
+The 1969 and 1970 teams finished 6–5 and 6–5–1 respectively. After these disappointing efforts, many began to wonder if the 57-year-old Bryant was washed up. He himself began feeling the same way and considered either retiring from coaching or leaving college football for the National Football League (NFL). </p>
+<p>
+For years, Bryant was accused of racism for refusing to recruit black players, but he merely said that the prevailing social climate and the overwhelming presence of noted segregationist George Wallace, first as governor and then as a presidential candidate, did not let him do this. He finally was able to convince the administration to allow him to do so after scheduling the Tide's 1970 season opener against a strong USC team led by black fullback Sam Cunningham. Cunningham rushed for 150 yards and two touchdowns in a 42–21 victory against the overmatched Tide. After that season, Bryant was able to recruit Wilbur Jackson as Alabama's first black scholarship player, and junior-college transfer John Mitchell became the first player for Alabama. By 1973, one-third of the team's starters were black, and Mitchell became the Tide's first black coach that season. </p>
+<p>
+In 1971, Bryant began engineering a comeback. This included abandoning Alabama's old power offense for the relatively new wishbone formation. Darrell Royal, the Texas football coach whose assistant, Emory Bellard virtually invented the wishbone, taught Bryant its basics, but Bryant developed successful variations of the wishbone that Royal had never used. The change helped make the remainder of the decade a successful one for the Crimson Tide. The 1971 Alabama Crimson Tide football team went undefeated in the regular season and rose to #2 in the AP Poll, but lost to top-ranked Nebraska, 38–6, in the Orange Bowl. </p>
+<p>
+Bryant's 1973 squad split national championships with Notre Dame, who defeated Alabama, 24–23, in the Sugar Bowl. The UPI thereafter moved its final poll until after the bowl games.
+The 1978 Alabama Crimson Tide football team split the national title with USC despite losing to the Trojans in September. Bryant won his sixth and final national title in 1979 after a 24–9 Sugar Bowl victory over Arkansas. </p>
+<p>
+Bryant coached at Alabama for 25 years, winning six national titles (1961, 1964, 1965, 1973, 1978, and 1979) and thirteen SEC championships. Bryant's win over in-state rival Auburn, coached by former Bryant assistant Pat Dye on November 28, 1981 was Bryant's 315th as a head coach, which was the most of any head coach at that time. His all-time record as a coach was 323–85–17. </p>
+     
+     <p>Paul 'Bear' Bryant was one of college football's most legendary coaches. As a head coach at Maryland, Kentucky, Texas A&M, and Alabama, Bryant impacted the lives of many men and left a lasting legacy on the sport and the schools he worked with. </p>
+<p>
+The majority of Bear Bryant's success came at The University of Alabama. Bryant coached at Alabama for 25 years, winning six national titles (1961, 1964, 1965, 1973, 1978, and 1979) and thirteen SEC championships. When he retired from the game after the 1982 season, his all-time record as a coach was 323-85-17.
+     </p>  
+     <p>Bryant was a heavy smoker and drinker for most of his life, and his health began to decline in the late 1970s. He collapsed due to a cardiac episode in 1977 and decided to enter alcohol rehab, but resumed drinking after only a few months of sobriety. Bryant experienced a mild stroke in 1980 that weakened the left side of his body and another cardiac episode in 1981 and was taking a battery of medications in his final years.</p>
+<p>
+Shortly before his death, Bryant met with evangelist Robert Schuller on a plane flight and the two talked extensively about religion, which apparently made an impression on the coach, who felt considerable guilt over his mistreatment of the Junction Boys and hiding his smoking and drinking habits from his mother.   </p>
+     <p>
+After a sixth-place SEC finish in the 1982 season that included losses to LSU and Tennessee, each for the first time since 1970, Bryant, who had turned 69 that September, announced his retirement, stating, "This is my school, my alma mater. I love it and I love my players. But in my opinion, they deserved better coaching than they have been getting from me this year." His last regular-season game was a 23–22 loss to Auburn and his last postseason game was a 21–15 victory in the Liberty Bowl in Memphis, Tennessee, over the University of Illinois. After the game, Bryant was asked what he planned to do now that he was retired. He replied, "Probably croak in a week." </p>
+<p>
+Four weeks after making that comment, and just one day after passing a routine medical checkup, on January 25, 1983, Bryant checked into Druid City Hospital in Tuscaloosa after experiencing chest pain. A day later, when being prepared for an electrocardiogram, he died after suffering a massive heart attack.
+     </p>
+   </div>
+      <footer>
+      <img src="https://www.universitysupplystore.com/outerweb/product_images/11599197l.jpg" alt="Alabama-Logo" class="logo" class="responsive">
+      <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Bear_Bryant" class="logo">Bear Bryant additional information
+      </a>
+      </footer>
+    </main>
+    </html>
+    
+    
+    main {
+  background-color:#E8E8E8;
+}
+h1 {
+  color: crimson; 
+  text-align:center;
+  font-size:60px;
+  text-shadow: -4.2px 1px #778899;
+  text-decoration: underline;
+}
+
+p {
+  color: black;
+text-decoration: none;
+  font-size: 25px;
+    font-align:left;
+  margin-right: px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.logo {  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width:none;
+  width: 800px;
+  height: 750px;
+  
+}
+
+#quote {
+  font-size:60px;
+  background-color:crimson;
+  text-align:center;
+  font-family:fantasy;
+}
+
+#image {
+width: 100%;
+height: auto;
+max-width: 600px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
